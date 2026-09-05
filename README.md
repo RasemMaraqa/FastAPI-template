@@ -267,3 +267,8 @@ Periodically remove expired refresh sessions:
 ```powershell
 python -m app.cli cleanup-sessions
 ```
+
+## Acknowledgment
+
+This template was generated with AI. The original code was written by me, Rasem Maraqa,
+for my [Project Management API](https://github.com/RasemMaraqa/Project-management).
